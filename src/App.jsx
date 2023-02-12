@@ -2,7 +2,7 @@ import React from 'react'
 import About from './components/about/About';
 import Contact from './components/contact/Contact.jsx';
 import Experience from './components/experience/Experience.jsx';
-import Services from './components/services/Services.jsx';
+// import Services from './components/services/Services.jsx';
 import Footer from './components/footer/Footer.jsx';
 import Header from './components/header/Header.jsx';
 import Nav from './components/nav/Nav.jsx';
@@ -18,7 +18,7 @@ const App = () => {
         <Nav />
         <About />
         <Experience />
-        <Services />
+        {/* <Services /> */}
         <Portfolio/>
         <Contact />
         <Footer />

@@ -13,7 +13,7 @@ export const frontEndSkills = [
     },
     {
         skill:'React',
-        level:'Intermediate', 
+        level:'Moderate', 
     },
 ];
 
@@ -28,7 +28,7 @@ export const backEndSkills = [
     },
     {
         skill:'Python',
-        level:'Intermediate', 
+        level:'Beginner', 
     },
     {
         skill:'NodeJS',

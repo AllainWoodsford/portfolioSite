@@ -23,23 +23,25 @@ const About = () => {
         <div className='about__cards'>
           <article className='about__card'>
             <FaAward className='about__icon'/>
-            <h5>Experience</h5>
-            <small>3+ Years Working Experience</small>
+            <h5>Education</h5>
+            <small>Completed Bachelor's Degree of Information Technology</small>
           </article>
           <article className='about__card'>
             <FiUsers className='about__icon'/>
-            <h5>Clients</h5>
-            <small>300+ Worldwide</small>
+            <h5>Further Learning</h5>
+            <small>Through online Web Development courses on skill sharing websites like Udemy</small>
           </article>
           <article className='about__card'>
             <VscFolderLibrary className='about__icon'/>
             <h5>Projects</h5>
-            <small>80+ Completed Projects</small>
+            <small>Continuing to work on skills by completing smaller projects in my own time</small>
           </article>
           
         </div>
         <div className='about__content__text'>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p>Hi I'm Allain a Sydney based developer looking for full-time work with a role focused on either Front-end or Fullstack development. I have <u><strong>REACT</strong></u> development experience through personal projects and further learning outside of my completed Bachelor of Information Technology Degree such as the <u><strong>MERN</strong></u> stack. I also have experience with other fundamental web development languages and frameworks such as: <em>C#, CSS, HTML, JS, Node JS and Express</em>. I also have experience with Databases such as <em>MySQL or MongoDB</em>.</p> 
+          <br/>
+          <p>Please reach out and find some example projects below.</p>
         </div>
       </div>
     </div>
